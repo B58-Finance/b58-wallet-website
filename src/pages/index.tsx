@@ -25,11 +25,11 @@ import Team from '../components/team'
 const messages = defineMessages({
   pageTitle: {
     id: 'page.title',
-    defaultMessage: 'B58 Finance - Multi Feature DeFi Wallet on Cardano'
+    defaultMessage: 'B58 Wallet - The Web3, DeFi crypto wallet built for you on Cardano'
   },
   pageDescription: {
     id: 'page.description',
-    defaultMessage: 'The easiest way of being part of a decentralized financial world. '+
+    defaultMessage: 'With B58 you can collect, earn, send, and participate in our growing digital world. '+
     'Where everyone is welcome on B58 DeFi Wallet on Cardano, that you are in control of your finances.'
   }
 })
@@ -52,11 +52,11 @@ const Index = ({ allPosts }: Props) => {
         <Head>
           <title>{f(messages.pageTitle)}</title>
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@B58Finance" />
+          <meta name="twitter:site" content="@B58Wallet" />
           <meta name="twitter:title" content={f(messages.pageTitle)} />
           <meta name="twitter:description" content={`${f(messages.pageDescription)}`} />
           {/* TODO: Change cover page */}
-          <meta name="twitter:image" content="https://b58.finance/images/cover.jpeg" />
+          <meta name="twitter:image" content="https://b58wallet.com/images/cover.jpeg" />
           <meta
             name="og:description"
             content={`${f(messages.pageDescription)}`}

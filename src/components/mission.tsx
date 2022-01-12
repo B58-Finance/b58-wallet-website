@@ -4,17 +4,15 @@ import f from "../lib/translate";
 const messages = defineMessages({
   walletTitle: {
     id: 'mission.title',
-    defaultMessage: 'Our B58 Mission'
+    defaultMessage: 'The B58 Mission'
   },
   walletBody: {
     id: 'wallet.body',
-    defaultMessage: 'Our wallet is fully featured where <b>Cardano ADA</b> is our main currency but also allows you to transact native tokens available in the platform.' +
+    defaultMessage: 'Our mission is to delivery the Next-Generation of <b>Cardano</b> wallets to you.'+
     '{br}'+
-    'You\'re able to receive payments through our personalized <b>Card QR</b> that allows you to express yourself by the selection of themes available.' +
+    'With an easy and secure on-boarding process, that guides you to every important part of B58.' +
     '{br}'+
-    'We also provide a Savings account ready and easy to use, where you earn rewards and can claim them every 5 days or build your retirement plan with it.'+
-    '{br}'+
-    'One more thing that you will enjoy is our <babbr>NTF</babbr> (Non-Fungible Tokens) manager available.'
+    'We\'re also commited to build features that the <b>Cardano Community</b> needs.'
   },
   walletAbbr: {
     id: 'wallet.abbr',

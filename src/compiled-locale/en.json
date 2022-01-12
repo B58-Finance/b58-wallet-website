@@ -170,7 +170,7 @@
   "mission.title": [
     {
       "type": 0,
-      "value": "Our B58 Mission"
+      "value": "The B58 Mission"
     }
   ],
   "more.abbr": [
@@ -358,13 +358,13 @@
   "wallet.body": [
     {
       "type": 0,
-      "value": "Our wallet is fully featured where "
+      "value": "Our mission is to delivery the Next-Generation of "
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Cardano ADA"
+          "value": "Cardano"
         }
       ],
       "type": 8,
@@ -372,7 +372,7 @@
     },
     {
       "type": 0,
-      "value": " is our main currency but also allows you to transact native tokens available in the platform."
+      "value": " wallets to you."
     },
     {
       "type": 1,
@@ -380,13 +380,21 @@
     },
     {
       "type": 0,
-      "value": "You're able to receive payments through our personalized "
+      "value": "With an easy and secure on-boarding process, that guides you to every important part of B58."
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "We're also commited to build features that the "
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Card QR"
+          "value": "Cardano Community"
         }
       ],
       "type": 8,
@@ -394,37 +402,7 @@
     },
     {
       "type": 0,
-      "value": " that allows you to express yourself by the selection of themes available."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "We also provide a Savings account ready and easy to use, where you earn rewards and can claim them every 5 days or build your retirement plan with it."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "One more thing that you will enjoy is our "
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "NTF"
-        }
-      ],
-      "type": 8,
-      "value": "babbr"
-    },
-    {
-      "type": 0,
-      "value": " (Non-Fungible Tokens) manager available."
+      "value": " needs."
     }
   ]
 }

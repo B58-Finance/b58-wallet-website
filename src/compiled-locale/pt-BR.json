@@ -43,80 +43,46 @@
       "value": "Arte gerada por IA"
     }
   ],
-  "defi.abbr": [
+  "features.accessible": [
     {
       "type": 0,
-      "value": "Non-Fungible Tokens"
+      "value": "Carteira B58 foi construída para todos, seja você um especialista ou um iniciante em criptomoedas"
     }
   ],
-  "defi.body": [
+  "features.accessible.title": [
     {
       "type": 0,
-      "value": "Nosso "
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "DeFi"
-        }
-      ],
-      "type": 8,
-      "value": "babbr"
-    },
-    {
-      "type": 0,
-      "value": " (Finanças descentralizadas) permite que você se envolva com outras pessoas na comunidade, fornecendo liquidez para empréstimos, enquanto você ganha rendimentos em seus cripto ativos."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "Você também pode promover um mundo aberto onde você pode usar o nosso serviço "
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Missão Transparência"
-        }
-      ],
-      "type": 8,
-      "value": "b"
-    },
-    {
-      "type": 0,
-      "value": " para doar e registrar na blockchain."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "Ainda ajuda as pequenas empresas a retirarem as suas ideias ou agricultores em locais remotos que precisam de um micro-empréstimo para aumentar a sua produção. Tudo isso usando nosso "
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Empréstimo Social"
-        }
-      ],
-      "type": 8,
-      "value": "b"
-    },
-    {
-      "type": 0,
-      "value": " com base em nosso algoritmo de Prova Social."
+      "value": "Acessível"
     }
   ],
-  "defi.title": [
+  "features.innovative": [
     {
       "type": 0,
-      "value": "Tudo que você pode fazer com finanças descentralizadas"
+      "value": "Os recursos incluídos na Carteira B58 são inovadores e intuitivos"
+    }
+  ],
+  "features.innovative.title": [
+    {
+      "type": 0,
+      "value": "Inovador"
+    }
+  ],
+  "features.secure": [
+    {
+      "type": 0,
+      "value": "Carteira B58 foi construída para todos, seja você um especialista ou um iniciante em criptomoedas"
+    }
+  ],
+  "features.secure.title": [
+    {
+      "type": 0,
+      "value": "Seguro"
+    }
+  ],
+  "features.title": [
+    {
+      "type": 0,
+      "value": "Nunca foi tão fácil usar o DeFi"
     }
   ],
   "footer.btn.download": [
@@ -140,7 +106,7 @@
   "home.body": [
     {
       "type": 0,
-      "value": "A forma mais fácil de fazer parte do mundo financeiro descentralizado. Onde todos são bem-vindos na carteira B58 com serviços DeFi usando Cardano, você tem controle de suas finanças."
+      "value": "Com B58 você pode coletar, ganhar, enviar e participar do nosso mundo digital em crescimento."
     },
     {
       "type": 1,
@@ -148,7 +114,7 @@
     },
     {
       "type": 0,
-      "value": "Obtenha acesso a pagamentos globais onde as transações são sem fronteiras e de baixo custo, podendo ser usado entre amigos e familiares ou com a sua empresa."
+      "value": "Onde você pode fazer parte de um mundo financeiro descentralizado. No lugar onde você é bem-vindo na Carteira B58 e tem controle de suas finanças."
     },
     {
       "type": 1,
@@ -156,11 +122,7 @@
     },
     {
       "type": 0,
-      "value": "Construa sua riqueza ganhando recompensas na sua poupança. Ao mesmo tempo, você estará livre para usar o seu saldo sempre que precisar."
-    },
-    {
-      "type": 1,
-      "value": "br"
+      "value": "Obtenha acesso a pagamentos globais onde transações são sem fronteiras e baixas e usando com amigos e familiares ou com o seu negócio."
     }
   ],
   "home.btn.download": [
@@ -172,37 +134,25 @@
   "home.btn.whitepaper": [
     {
       "type": 0,
-      "value": "Leia a Especificação"
+      "value": "Especificação"
     }
   ],
   "home.title": [
     {
       "type": 0,
-      "value": "Faça parte de um mundo financeiro aberto, seguro e global"
+      "value": "A carteira de criptomoedas Web3, com DeFi feita para você"
     }
   ],
-  "menu.about": [
+  "menu.features": [
     {
       "type": 0,
-      "value": "Sobre"
+      "value": "Recursos"
     }
   ],
-  "menu.blog": [
+  "menu.support": [
     {
       "type": 0,
-      "value": "Blog"
-    }
-  ],
-  "menu.defi": [
-    {
-      "type": 0,
-      "value": "DeFi"
-    }
-  ],
-  "menu.roadmap": [
-    {
-      "type": 0,
-      "value": "Projeto"
+      "value": "Suporte"
     }
   ],
   "menu.team": [
@@ -211,428 +161,124 @@
       "value": "Equipe"
     }
   ],
-  "menu.wallet": [
-    {
-      "type": 0,
-      "value": "Carteira"
-    }
-  ],
   "menu.whitepaper": [
     {
       "type": 0,
       "value": "Especificação"
     }
   ],
-  "page.description": [
+  "mission.title": [
     {
       "type": 0,
-      "value": "A forma mais fácil de fazer parte do mundo financeiro descentralizado. Onde todos são bem-vindos na carteira B58 com serviços DeFi usando Cardano, você tem controle de suas finanças."
+      "value": "A Missão B58"
     }
   ],
-  "page.title": [
+  "more.abbr": [
     {
       "type": 0,
-      "value": "B58 Finance - Cripto Carteira Multifuncional com serviços DeFi usando Cardano"
+      "value": "Non-Fungible Tokens"
     }
   ],
-  "roadmap.body": [
+  "more.body": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Cartão QR personalizado"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
     {
       "type": 0,
-      "value": "Aqui você pode encontrar mais detalhes sobre o nosso projeto, assim como o andamento e também o que temos planejado."
+      "value": " que permite que você se expresse pela seleção de temas disponíveis."
     },
     {
       "type": 1,
       "value": "br"
     },
     {
-      "type": 0,
-      "value": "Nossas fases são inspiradas por pioneiros da ciência da computação, que sem o trabalho dele não seria possível hoje."
-    }
-  ],
-  "roadmap.body.bl": [
-    {
-      "type": 0,
-      "value": "Cripto Empréstimos"
-    }
-  ],
-  "roadmap.body.bl.description": [
-    {
-      "type": 0,
-      "value": "O recurso de Cripto Empréstimos usará o padrão colateralizado já existente no mercado cripto."
-    }
-  ],
-  "roadmap.body.bl.items": [
-    {
       "children": [
         {
           "type": 0,
-          "value": "Como um Financiador usuários podem fornecer liquidez a contratos inteligentes, que ganharão rendimentos com a taxa de empréstimo."
+          "value": "Conta de poupança"
         }
       ],
       "type": 8,
-      "value": "li"
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " pronta e fácil de usar onde você ganha recompensas e pode reivindicá-las a cada 5 dias ou construir seu plano de aposentadoria com isso."
+    },
+    {
+      "type": 1,
+      "value": "br"
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Como usuários de Empréstimo podem colocar um ativo de garantia e obter outro pagando uma taxa de juros sobre ele."
+          "value": "Biblioteca Colecionável"
         }
       ],
       "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.bs": [
+      "value": "b"
+    },
     {
       "type": 0,
-      "value": "Comprar e Vender ADA"
-    }
-  ],
-  "roadmap.body.bs.description": [
-    {
-      "type": 0,
-      "value": "Nós vamos desenvolver um sistema de liquidez para fornecer o recurso de compra/venda ADA com moeda corrente."
-    }
-  ],
-  "roadmap.body.bs.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Também vamos avaliar os provedores de liquidez disponíveis no mercado."
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.dc": [
-    {
-      "type": 0,
-      "value": "Cartão de Débito"
-    }
-  ],
-  "roadmap.body.dc.description": [
-    {
-      "type": 0,
-      "value": "O Cartão de Débito, fornecerá aos usuários a possibilidade de pagamentos com cripto."
-    }
-  ],
-  "roadmap.body.dc.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Os usuários podem obter cartões de débito com conversão automática entre Moeda Corrente/Crypto ao usar o cartão."
-        }
-      ],
-      "type": 8,
-      "value": "li"
+      "value": " onde você pode ver toda a sua "
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Este recurso será fornecido via parceria com terceiros disponíveis no mercado."
+          "value": "NFT"
         }
       ],
       "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.frege": [
+      "value": "babbr"
+    },
     {
       "type": 0,
-      "value": "Pioneiro da Ciência da Computação Estendendo a lógica aristoteliana com cálculo de primeira ordem."
-    }
-  ],
-  "roadmap.body.holberton": [
+      "value": " e Tokens em um só lugar."
+    },
     {
-      "type": 0,
-      "value": "Pioneiro da Ciência da Computação escrevendo a primeira fusão de ordenação para mainframe no Univac."
-    }
-  ],
-  "roadmap.body.lovelace": [
-    {
-      "type": 0,
-      "value": "Pioneiro da Ciência da Computação escrevendo o primeiro algoritmo a ser executado em um computador."
-    }
-  ],
-  "roadmap.body.martin": [
-    {
-      "type": 0,
-      "value": "Pioneiro da Ciência da Computação desenvolvendo as bases filosóficas da teoria de tipo."
-    }
-  ],
-  "roadmap.body.mt": [
-    {
-      "type": 0,
-      "value": "Missão Transparência"
-    }
-  ],
-  "roadmap.body.mt.description": [
-    {
-      "type": 0,
-      "value": "A Missão Transparência é um serviço focado nas Stake pools mantidas pela comunidade que proporcionarão visibilidade das suas Doações realizadas para as causas."
-    }
-  ],
-  "roadmap.body.mt.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Usando Cardano transação de metadados forneceremos um registro imutável e rastreável de suas doações."
-        }
-      ],
-      "type": 8,
-      "value": "li"
+      "type": 1,
+      "value": "br"
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Também podemos apoiar o pagamento das Doações por meio da nossa carteira fazendo parceria com as OMGs."
+          "value": "tokens nativos do Cardano"
         }
       ],
       "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.network": [
-    {
-      "type": 0,
-      "value": "Rede"
-    }
-  ],
-  "roadmap.body.network.description": [
-    {
-      "type": 0,
-      "value": "Desenvolvimento da nossa rede Mainnet, que fornecerá as APIs com as funcionalidades do backend."
-    }
-  ],
-  "roadmap.body.scope": [
-    {
-      "type": 0,
-      "value": "Escopo de trabalho"
-    }
-  ],
-  "roadmap.body.sl": [
-    {
-      "type": 0,
-      "value": "Empréstimo Social"
-    }
-  ],
-  "roadmap.body.sl.description": [
-    {
-      "type": 0,
-      "value": "O serviço de empréstimo social irá financiar as pequenas empresas através de um Micro-Empréstimo dentro de um limite a ser definido."
-    }
-  ],
-  "roadmap.body.sl.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Os usuários \"Pequenas Empresas\" poderam criar um perfil aprensentado suas necessidades e procurar financiadores através dele."
-        }
-      ],
-      "type": 8,
-      "value": "li"
+      "value": "b"
     },
     {
-      "children": [
-        {
-          "type": 0,
-          "value": "Cada Financiador poderá ter um empréstimo ativo e um valor máximo em nossa oferta inicial."
-        }
-      ],
-      "type": 8,
-      "value": "li"
+      "type": 0,
+      "value": " podem ser transacionados através da carteira B58."
     }
   ],
-  "roadmap.body.sp": [
+  "more.title": [
     {
       "type": 0,
-      "value": "Stake Pool"
+      "value": "Tudo que você pode fazer com finanças descentralizadas"
     }
   ],
-  "roadmap.body.sp.description": [
+  "page.description": [
     {
       "type": 0,
-      "value": "Desenvolvimento da infraestrutura para a Stake Pool, com 2 servidores de replica e 1 servidor principal."
+      "value": "Com B58 você pode coletar, ganhar, enviar e participar de nosso mundo digital em crescimento. Onde todos são bem-vindos na Carteira B58 do DeFi no Cardano, você tem o controle de suas finanças."
     }
   ],
-  "roadmap.body.te": [
+  "page.title": [
     {
       "type": 0,
-      "value": "Trade Exchange"
-    }
-  ],
-  "roadmap.body.te.description": [
-    {
-      "type": 0,
-      "value": "O serviço de Trade Exchange é uma maneira de os usuários obterem outros tokens nativos e futuros migrados para Cardano Blockchain."
-    }
-  ],
-  "roadmap.body.te.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Os usuários poderão comprar/vender tokens."
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.ti": [
-    {
-      "type": 0,
-      "value": "Emissão de Token"
-    }
-  ],
-  "roadmap.body.ti.description": [
-    {
-      "type": 0,
-      "value": "A Emisão de Token é quando lançamos nosso Token Nativo e integramos com a carteira e nossos serviços de DeFi."
-    }
-  ],
-  "roadmap.body.ti.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Emissão do nosso token de utilidade para servir como recompensas e usar em recursos específicos de DeFi que vamos desenvolver."
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.ts": [
-    {
-      "type": 0,
-      "value": "Troca de Token"
-    }
-  ],
-  "roadmap.body.ts.description": [
-    {
-      "type": 0,
-      "value": "O serviço de troca de token é uma maneira de usuários trocarem o ADA e tokens nativos."
-    }
-  ],
-  "roadmap.body.ts.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Os usuários poderão trocar ativos no Cardano Blockchain."
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Usuários podem fornecer liquidez para Contratos inteligentes"
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.wallet": [
-    {
-      "type": 0,
-      "value": "Carteira"
-    }
-  ],
-  "roadmap.body.wallet.description": [
-    {
-      "type": 0,
-      "value": "Carteira completa para o Cardano Blockchain, essa é a principal funcionalidade do B58 Finance - DeFi plataforma. Nosso objetivo é trazer a melhor experiência para usuários de Blockchain."
-    }
-  ],
-  "roadmap.body.wallet.items": [
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Gerenciamento de múltiplas contas"
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Enviar/Receber Tokens (ADA/Tokens Nativos)"
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Poupança usando Cardano Staking Pools, primeiramente em nossos próprios pools"
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "Integração com o sistema de votação project Catalyst."
-        }
-      ],
-      "type": 8,
-      "value": "li"
-    }
-  ],
-  "roadmap.body.wallet.more": [
-    {
-      "type": 0,
-      "value": "Essa etapa inclui o desenvolvimento de uma extensão de navegador, com web3 como integração. E também um aplicativo móvel para a plataforma Android e iOS."
-    }
-  ],
-  "roadmap.stage1": [
-    {
-      "type": 0,
-      "value": "Fundação"
-    }
-  ],
-  "roadmap.stage2": [
-    {
-      "type": 0,
-      "value": "Contratos Inteligentes"
-    }
-  ],
-  "roadmap.stage3": [
-    {
-      "type": 0,
-      "value": "Adoção"
-    }
-  ],
-  "roadmap.stage4": [
-    {
-      "type": 0,
-      "value": "Exchange"
-    }
-  ],
-  "roadmap.title": [
-    {
-      "type": 0,
-      "value": "Nosso projeto para o futuro financeiro"
+      "value": "Carteira B58 - Carteira de criptomoedas Web3, DeFi construída para você no Cardano"
     }
   ],
   "team.body": [
@@ -652,19 +298,25 @@
   "team.description.flavio": [
     {
       "type": 0,
-      "value": "20 anos de experiência em Desenvolvimento de Backend especializado em desenvolver ferramentas e integrações empresariais no ecossistema SAP, focado em Cadeia de Suprimentos, Fabricação e Finanças. Como consultor, trabalhou com empresas multinacionais e automobilisticas como a Fiat e a Chrysler."
+      "value": "Mais de 20 anos de experiência em Desenvolvimento de Backend, trabalhando em ferramentas empresariais para Fabricação e Finanças."
     }
   ],
   "team.description.francis": [
     {
       "type": 0,
-      "value": "20 anos de experiência no Desenvolvimento de Software, trabalhando com uma variedade de linguagens. E fazendo parte de projetos na América do Sul como consultor, vivendo e ajudando a desenvolver o Sistema de Segurança Social de Angola na África, e trabalhando como Engenheiro de Cyber Security em um Banco Global."
+      "value": "Mais de 20 anos de experiência no domínio do desenvolvimento de software, trabalhando em projectos na África, Américas e Europa."
     }
   ],
   "team.description.gabriel": [
     {
       "type": 0,
-      "value": "11 anos de experiência em Desenvolvimento de Software e especialização em dispositivos móveis oferecendo soluções multiplataformas, trabalhando desenvolvendo sistemas de ERP personalizados para o mercado brasileiro e atualmente desenvolvendo uma solução para iOS e Android Mobile para empresas de seguros de saúde nos EUA."
+      "value": "Mais de 11 anos de experiência em Desenvolvimento de Software e Especialização em Mobile, oferecendo soluções multiplataforma."
+    }
+  ],
+  "team.description.nick": [
+    {
+      "type": 0,
+      "value": "UX Designer com experiência em Motion Design e Design Gráfico e entusiasta Crypto."
     }
   ],
   "team.role.advisor": [
@@ -677,6 +329,12 @@
     {
       "type": 0,
       "value": "Co-Fundador"
+    }
+  ],
+  "team.role.designer": [
+    {
+      "type": 0,
+      "value": "Designer"
     }
   ],
   "team.role.developer": [
@@ -700,13 +358,13 @@
   "wallet.body": [
     {
       "type": 0,
-      "value": "Nossa carteira é completa com "
+      "value": "Nossa missão é entregar a próxima geração de carteiras de "
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Cardano ADA"
+          "value": "Cardano"
         }
       ],
       "type": 8,
@@ -714,7 +372,7 @@
     },
     {
       "type": 0,
-      "value": " sendo nossa moeda principal, mas também permite que você transfira tokens nativos disponíveis na plataforma."
+      "value": " para você."
     },
     {
       "type": 1,
@@ -722,13 +380,21 @@
     },
     {
       "type": 0,
-      "value": "Você pode receber pagamentos através do nosso "
+      "value": "Com um processo de integração fácil e seguro, que o guia em todas as partes importantes da B58"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Nós também estamos comprometidos para construir os recursos de que a "
     },
     {
       "children": [
         {
           "type": 0,
-          "value": "Cartão QR Code"
+          "value": "comunidade do Cardano"
         }
       ],
       "type": 8,
@@ -736,43 +402,7 @@
     },
     {
       "type": 0,
-      "value": " personalizado onde você pode se expressar selecionando um dos temas disponíveis."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "Também fornecemos uma conta de poupança pronta e fácil de usar onde você ganha recompensas e pode resgata-las a cada 5 dias ou construir seu plano de aposentadoria com ele."
-    },
-    {
-      "type": 1,
-      "value": "br"
-    },
-    {
-      "type": 0,
-      "value": "Uma outra coisa de que você vai gostar é nosso gerenciador de "
-    },
-    {
-      "children": [
-        {
-          "type": 0,
-          "value": "NTF"
-        }
-      ],
-      "type": 8,
-      "value": "babbr"
-    },
-    {
-      "type": 0,
-      "value": " (Non-Fungible Tokens)."
-    }
-  ],
-  "wallet.title": [
-    {
-      "type": 0,
-      "value": "Uma Carteira que é simples e fácil de usar"
+      "value": " precisa."
     }
   ]
 }
