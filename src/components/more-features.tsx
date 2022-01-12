@@ -30,8 +30,8 @@ const MoreFeatures = () => {
         <div className="item-center text-center hidden md:block -m-10 -mt-16 -mr-24">
           <img src="/images/chrome-extension.png" alt="B58 Wallet Chrome Extension" className="inline-block" />
         </div>
-        <div className="lg:ml-6 p-6 flex items-center">
-          <div className="item-center text-center block md:hidden">
+        <div className="lg:ml-6 md:p-6 flex flex-wrap items-center">
+          <div className="item-center text-center block md:hidden -mt-16">
             <img src="/images/chrome-extension.png" alt="B58 Wallet Chrome Extension" className="inline-block" />
           </div>
           <p className="text-base text-justify lg:text-left lg:mr-8 mt-10">

@@ -43,7 +43,7 @@ const Features = () => {
           </h1>
         </div>
       </div>
-      <div className="p-6 lg:mt-6 flex justify-center">
+      <div className="p-6 lg:mt-6 flex flex-wrap justify-center">
         <div className='p-6 m-6 text-center dark:bg-blue-over light:bg-gray-400 rounded-2xl w-56 h-56'>
           <svg className='inline-block h-10 mb-2' viewBox="0 0 41 46" fill="none" stroke='currentcolor' xmlns="http://www.w3.org/2000/svg">
             <path d="M20.4999 23.1804C26.3487 23.1804 31.0901 18.439 31.0901 12.5902C31.0901 6.74139 26.3487 2 20.4999 2C14.6511 2 9.90967 6.74139 9.90967 12.5902C9.90967 18.439 14.6511 23.1804 20.4999 23.1804Z" strokeWidth="3"/>

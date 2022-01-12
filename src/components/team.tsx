@@ -65,7 +65,7 @@ const Team = () => {
           </p>
         </div> */}
       </div>
-      <div className="p-6 lg:mt-6 grid grid-cols-2 md:grid-cols-4 md:col-gap-28 row-gap-0 md:row-gap-6 lg:mb-10">
+      <div className="p-6 lg:mt-6 grid grid-cols-1 md:grid-cols-4 md:col-gap-28 row-gap-0 md:row-gap-6 lg:mb-10">
         <TeamAvatar 
           name="Francis Luz"
           img="/images/francis.jpeg"
