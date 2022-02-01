@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div id="home" className={"pt-16 -mt-16 lg:pt-32 lg:-mt-32"}>
       <section className="container mx-auto lg:px-5">
-        <div className="grid grid-cols-1 md:grid-cols-2 md:col-gap-16 lg:col-gap-32 row-gap-0 md:row-gap-32">
+        <div className="grid grid-cols-1 md:grid-cols-2 md:col-gap-16 lg:col-gap-24 row-gap-0 md:row-gap-32">
           <div className="p-6">
             <h1 className="lg:mt-16 mb-8 lg:mr-10 text-3xl lg:text-6xl font-medium leading-tight">
               {f(messages.homeTitle)}
@@ -50,9 +50,13 @@ const Home = () => {
               </a>
             </div>
           </div>
-          <div>
-            <img src="/images/b58_app_home.png"
-              className='img-light'
+          <div className='lg:mt-20 lg:pr-10 p-6'>
+            <img src="/images/b58_wallet_main.png"
+              className='img-light dark:hidden light:show'
+              alt="B58 Wallet App Home"
+            />
+            <img src="/images/b58_wallet_main_dark.png"
+              className='img-light dark:show light:hidden'
               alt="B58 Wallet App Home"
             />
           </div>
